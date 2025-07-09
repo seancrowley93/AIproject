@@ -1,0 +1,4 @@
+2025-06-21 09:17:18.255874 i  TREXUpdateHandler   TREXUpdateHandler.cpp(1467) : Started index merge
+2025-06-21 09:17:18.256148 e  LogBackup           LogBackup.cpp( 312) : Error writing backup file: rc=258
+2025-06-21 09:17:18.256190 w  CheckpointService   Checkpoint.cpp( 894) : Delayed checkpoint due to snapshot
+2025-06-21 09:17:19.100001 i  IndexServer         RowEngine.cpp( 455) : Row merge finished~
